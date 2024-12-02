@@ -1,0 +1,1 @@
+Error scraping YouTube data: 404 Client Error: Not Found for url: https://api.agentql.com/v1/query
