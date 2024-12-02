@@ -1,4 +1,7 @@
 agentql
 playwright
 python-dotenv
-requests 
+requests
+pandas
+matplotlib
+seaborn 
