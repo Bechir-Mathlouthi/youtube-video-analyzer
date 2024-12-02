@@ -132,7 +132,7 @@ class YouTubeAnalyzer:
         return formatted_analysis
 
 def main():
-    video_url = "https://www.youtube.com/watch?v=ssBdJqBF1CA"
+    video_url = "https://www.youtube.com/watch?v=S520UXpy7r4&list=RDS520UXpy7r4&start_radio=1"
     
     try:
         analyzer = YouTubeAnalyzer()
